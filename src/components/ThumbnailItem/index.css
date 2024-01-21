@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thumbnailContainer {
+  padding-right: 10px;
+  margin-left: 0px;
+  opacity: 0.5;
+}
+.update-color {
+  opacity: 1;
+}
+.button {
+  background-color: transparent;
+  border: 0px solid;
+}
